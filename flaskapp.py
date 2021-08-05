@@ -30,7 +30,7 @@ def add_task():
         },400)
 
     contact = {
-        'id': tasks[-1]['id'] + 1,
+        'id': List[-1]['id'] + 1,
         'Name': request.json['Name'],
         'Contact': request.json.get('Contact', ""),
         'done': False
@@ -50,3 +50,4 @@ def get_task():
 
 if (__name__ == "__main__"):
     app.run(debug=True)
+    app.run()
