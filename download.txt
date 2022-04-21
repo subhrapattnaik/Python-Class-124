@@ -9,6 +9,24 @@ https://www.postman.com/downloads/
 Postman is an application used for API testing. It is an HTTP client that tests HTTP requests, utilizing a graphical user interface, through which we obtain different types of responses that need to be subsequently validated
 
 
+-----------------------
+Flask is a web application framework written in Python. 
+Flask is a web framework, it’s a Python module that lets you develop web applications easily.
+
+A Web Application Framework or a simply a Web Framework represents a collection of libraries and modules that enable web application developers to write applications without worrying about low-level details such as protocol, thread management, and so on.
+
+
+Sudo apt-get install virtualenv
+Sudo apt-get install python3.8-venv
+
+venv/bin/activate
+
+pip install Flask
+
+https://www.tutorialspoint.com/flask/flask_application.htm
+
+
+
 
 
 
