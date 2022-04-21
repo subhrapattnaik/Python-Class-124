@@ -1,4 +1,6 @@
-API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API.
+API is the acronym for Application Programming Interface, which is a software intermediary that allows two
+applications to talk to each other. Each time you use an app like Facebook, send an instant message, or
+check the weather on your phone, you're using an API.
 
 
 
@@ -6,14 +8,17 @@ https://www.postman.com/downloads/
 
 
 
-Postman is an application used for API testing. It is an HTTP client that tests HTTP requests, utilizing a graphical user interface, through which we obtain different types of responses that need to be subsequently validated
+Postman is an application used for API testing. It is an HTTP client that tests HTTP requests, 
+utilizing a graphical user interface, through which we obtain different types of responses that need to be subsequently validated
 
 
 -----------------------
 Flask is a web application framework written in Python. 
 Flask is a web framework, it’s a Python module that lets you develop web applications easily.
 
-A Web Application Framework or a simply a Web Framework represents a collection of libraries and modules that enable web application developers to write applications without worrying about low-level details such as protocol, thread management, and so on.
+A Web Application Framework or a simply a Web Framework represents a collection of libraries and modules 
+that enable web application developers to write applications without worrying about low-level details such
+as protocol, thread management, and so on.
 
 
 Sudo apt-get install virtualenv
